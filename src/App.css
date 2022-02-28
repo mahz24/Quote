@@ -13,6 +13,8 @@
 }
 
 .card {
+  width: 55%;
+  border-radius: 15px;
   box-shadow: 2px 2px 8px rgb(0, 0, 0.3);
   padding: 20px;
   background-color: #fff;
