@@ -32,7 +32,7 @@ const QuotesBox = () => {
         style={{ background: color }}
         id="next"
       >
-        <i class="fa-solid fa-angle-right"></i>
+        <i className="fa-solid fa-angle-right"></i>
       </button>
     </div>
   );

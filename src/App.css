@@ -6,14 +6,14 @@
 
 .App {
   height: 100vh;
-  padding: 20rem;
+  padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .card {
-  width: 55%;
+  width: 40% !important;
   border-radius: 15px;
   box-shadow: 2px 2px 8px rgb(0, 0, 0.3);
   padding: 20px;
@@ -28,7 +28,7 @@
 }
 
 .card ul i {
-  font-size: 60px;
+  font-size: 30px;
   width: 55px;
   margin-right: 5px;
 }
